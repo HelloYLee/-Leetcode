@@ -1,0 +1,12 @@
+最近刷到排序和链表的题，两个都是我的弱项。都需要加强
+
+先来回顾一下基本知识
+
+算法	平均时间	最好时间	最坏时间	空间	稳定性
+冒泡排序	O(n*n)	O(n)	O(n*n)	O(1)	稳定
+选择排序	O(n*n)	O(n*n)	O(n*n)	O(1)	不稳定
+插入排序	O(n*n)	O(n)	O(n*n)	O(1)	稳定
+希尔排序	O(nlogn)	O(nlog^2n)	O(nlog^2n)	O(1)	不稳定
+归并排序	O(nlogn)	O(nlogn)	O(nlogn)	O(n)	稳定
+快速排序	O(nlogn)	O(nlogn)	O(n*n)	O(logn)	不稳定
+堆排序	O(nlogn)	O(nlogn)	O(nlogn)	O(1)	不稳定
